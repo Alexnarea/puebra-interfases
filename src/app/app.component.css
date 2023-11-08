@@ -1,0 +1,25 @@
+.titulo{
+    color: black;
+    background-color: wheat;
+}
+.historia{
+    background-color: rgb(248, 110, 5);
+}
+.motivos{
+    background-color: rgb(248, 110, 5);
+}
+.personajes{
+    background-color: rgb(248, 110, 5);
+}
+.otras{
+    background-color: rgb(248, 110, 5);
+}
+.cambio{
+    background-color: rgb(248, 110, 5);
+    color: black;
+    padding: 20px;
+}
+.cambio:hover{
+    background-color: rgb(13, 240, 214);
+    color: blueviolet;
+}

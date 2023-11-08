@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    font-family:'Arial',sans-serif;
+    height: 100vh;
+    object-fit: calc(10px);
+    background-image: url(https://i.pinimg.com/564x/17/50/07/175007ab15f668b2dc2eec4664954dd6.jpg);
+}
