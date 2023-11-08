@@ -20,6 +20,6 @@
     padding: 20px;
 }
 .cambio:hover{
-    background-color: rgb(13, 240, 214);
-    color: blueviolet;
+    background-color: red;
+    color: white;
 }
